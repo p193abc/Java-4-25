@@ -9,5 +9,6 @@ public class multiplicationTable {
             p=n*i;
             System.out.println(n+"x"+i+"="+p);
     }
+    sc.close();
     }
 }

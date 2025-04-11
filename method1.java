@@ -13,5 +13,6 @@ public class method1 {
         method1 obj=new method1();
         obj.output();
         print();
+        sc.close();
     }
 }
