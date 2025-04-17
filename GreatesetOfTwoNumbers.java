@@ -9,5 +9,6 @@ public class GreatesetOfTwoNumbers {
             System.out.print("First no. is greater");
         else
             System.out.print("Second no. is greater");
+            sc.close();
     }
 }
