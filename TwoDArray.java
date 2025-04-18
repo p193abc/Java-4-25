@@ -14,6 +14,6 @@ public class TwoDArray {
             System.out.print(sum[i]+" ");
         }
 
-        
+        sc.close();
     }
 }
