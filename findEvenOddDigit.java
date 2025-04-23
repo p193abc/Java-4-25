@@ -1,5 +1,5 @@
 
-public class day7 {
+public class findEvenOddDigit {
     
     public static void main(String[] args) {
         int n=1234;
