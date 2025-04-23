@@ -1,5 +1,5 @@
 import java.util.*;
-public class rowWiseSum {
+public class columnWiseSum {
     
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
