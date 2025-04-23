@@ -1,5 +1,5 @@
 
-public class day7 {
+public class mergeTwoArrays {
     
     public static void main(String[] args) {
      /*   int n=1234;
