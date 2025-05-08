@@ -51,6 +51,6 @@ public class mergesort {
             System.out.print(arr[i]+" ");
         }
         
-       
+       System.out.print("\nArray has been sorted ");
     }
 }
