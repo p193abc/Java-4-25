@@ -30,5 +30,6 @@ public class calculator {
             default:
             System.out.print("Invalid Operatior!!!");
         }
+        sc.close();
     }
 }

@@ -10,5 +10,6 @@ public class divisibleBy5And11 {
            
             else
             System.out.print("Number is NOT divisible by 5 and 11...");
+            sc.close();
     }
 }
